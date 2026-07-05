@@ -268,9 +268,7 @@ markers:
   - {type: xml-element, offset: 1123, content: '', id: lgK41p0162b1101_end, name: lg, role: close, attrs: {type: regular, 'xml:id': lgK41p0162b1101}}
   - {type: line-break, offset: 1123, content: '', id: KR6m0005_K_016-0162b13, ed: K, 'n': 0162b13}
   - {type: xml-element, offset: 1123, content: '', id: pK41p0162b1301, name: p, role: open, attrs: {'xml:id': pK41p0162b1301}}
-  - {type: substitution, offset: 1130, original: 湏, replacement: 須, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3551}}
   - {type: line-break, offset: 1137, content: '', id: KR6m0005_K_016-0162b14, ed: K, 'n': 0162b14}
-  - {type: substitution, offset: 1143, original: 湏, replacement: 須, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3551}}
   - {type: line-break, offset: 1151, content: '', id: KR6m0005_K_016-0162b15, ed: K, 'n': 0162b15}
   - {type: punctuation, offset: 1160, content: 。, id: KR6m0005_K_016-bkkpn59}
   - {type: xml-element, offset: 1160, content: '', id: pK41p0162b1301_end, name: p, role: close, attrs: {'xml:id': pK41p0162b1301}}
@@ -353,7 +351,6 @@ markers:
   - {type: line-break, offset: 1486, content: '', id: KR6m0005_K_016-0163a01, ed: K, 'n': 0163a01}
   - {type: xml-element, offset: 1486, content: '', id: lgK41p0163a0101, name: lg, role: open, attrs: {type: regular, 'xml:id': lgK41p0163a0101}}
   - {type: punctuation, offset: 1491, content: 。, id: KR6m0005_K_016-bkkpn77}
-  - {type: substitution, offset: 1492, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: line-break, offset: 1496, content: '', id: KR6m0005_K_016-0163a02, ed: K, 'n': 0163a02}
   - {type: punctuation, offset: 1501, content: 。, id: KR6m0005_K_016-bkkpn78}
   - {type: xml-element, offset: 1506, content: '', id: lgK41p0163a0101_end, name: lg, role: close, attrs: {type: regular, 'xml:id': lgK41p0163a0101}}
@@ -455,7 +452,6 @@ markers:
   - {type: xml-element, offset: 2149, content: '', id: lgK41p0163c0901, name: lg, role: open, attrs: {type: regular, 'xml:id': lgK41p0163c0901}}
   - {type: punctuation, offset: 2154, content: 。, id: KR6m0005_K_016-bkkpn94}
   - {type: line-break, offset: 2159, content: '', id: KR6m0005_K_016-0163c10, ed: K, 'n': 0163c10}
-  - {type: substitution, offset: 2159, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 2164, content: 。, id: KR6m0005_K_016-bkkpn95}
   - {type: line-break, offset: 2169, content: '', id: KR6m0005_K_016-0163c11, ed: K, 'n': 0163c11}
   - {type: punctuation, offset: 2174, content: 。, id: KR6m0005_K_016-bkkpn96}
@@ -696,9 +692,8 @@ markers:
   - {type: line-break, offset: 3094, content: '', id: KR6m0005_K_016-0165a09, ed: K, 'n': 0165a09}
   - {type: xml-element, offset: 3094, content: '', id: pK41p0165a0901, name: p, role: open, attrs: {'xml:id': pK41p0165a0901, style: 'margin-left:2em'}}
   - {type: line-break, offset: 3105, content: '', id: KR6m0005_K_016-0165a10, ed: K, 'n': 0165a10}
-  - {type: substitution, offset: 3106, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1528}}
   - {type: xml-element, offset: 3108, content: '', id: pK41p0165a0901_end, name: p, role: close, attrs: {'xml:id': pK41p0165a0901, style: 'margin-left:2em'}}
   - {type: page-break, offset: 3108, content: '', id: KR6m0005_K_016-0165b, ed: K, 'n': 0165b, source_xml_id: K41.1482.0165b}
   - {type: line-break, offset: 3108, content: '', id: KR6m0005_K_016-0165b01, ed: K, 'n': 0165b01}
   back: []
-hash: sha256:c076aebc1acccad99238e73d1f32aab0af6e67f1cb06e192aef177c51b85b671
+hash: sha256:e8ee74eca471dde03f4bdf75f7cd91cd5af7066241fbb0c0b194770b074f0900
